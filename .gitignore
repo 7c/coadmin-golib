@@ -1,0 +1,4 @@
+bin/
+demos/
+go.sum
+releasego.sh
