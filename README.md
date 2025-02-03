@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-go install github.com/7c/coadmin-golib/cmd/coadmin-cli@v0.0.1
+go install github.com/7c/coadmin-golib/coadmin-cli@v0.0.3
 ```
 
 ## Usage
