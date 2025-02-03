@@ -2,3 +2,6 @@ bin/
 demos/
 go.sum
 releasego.sh
+.goreleaser.yaml
+# Added by goreleaser init:
+dist/
